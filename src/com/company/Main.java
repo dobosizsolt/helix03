@@ -29,11 +29,6 @@ public class Main {
 
     }
 
-    private static void countAVG(int[] array){
-
-        
-        System.out.println("AVG: ");
-    }
 
     private static void printArrayElements(int[] array) {
 
@@ -52,3 +47,4 @@ public class Main {
         }
     }
 }
+
